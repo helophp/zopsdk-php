@@ -1,5 +1,5 @@
 {
-    "name": "zto/zopsdk-php",
+    "name": "helophp/zopsdk-php",
     "description": "中通开放平台SDK(php)",
     "type": "library",
     "license": "Apache-2.0",
