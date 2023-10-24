@@ -1,8 +1,7 @@
 <?php
 
 
-namespace zop;
-include "ZopHttpUtil.php";
+namespace zop; 
 
 class ZopClient
 {
